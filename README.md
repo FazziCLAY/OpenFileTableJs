@@ -1,7 +1,8 @@
 # OpenFileTableJs (JavaScript)
 ## Script for adding file tables to your site (suitable for index pages)
 
-## Example (index.html)
+## Use example (index.html)
+check index.json file!
 ```html
 <!DOCTYPE html>
 <html>
@@ -23,6 +24,6 @@
 </script>
 </html>
 ```
-check index.json file!
 
+Example in: https://fazziclay.github.io/download/
 ![image](https://user-images.githubusercontent.com/68351787/174962828-c96c8f70-e899-4178-adec-cb00063433b5.png)

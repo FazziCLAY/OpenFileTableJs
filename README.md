@@ -2,7 +2,7 @@
 ## Script for adding file tables to your site (suitable for index pages)
 
 ## Use example (index.html)
-check index.json file!
+Check index.json file!
 ```html
 <!DOCTYPE html>
 <html>

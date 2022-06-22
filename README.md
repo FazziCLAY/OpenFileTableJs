@@ -2,7 +2,7 @@
 ## Script for adding file tables to your site (suitable for index pages)
 
 ## Use example (index.html)
-Check index.json file!
+Check `index.json` file!
 ```html
 <!DOCTYPE html>
 <html>
@@ -26,4 +26,5 @@ Check index.json file!
 ```
 
 Example in: https://fazziclay.github.io/download/
+
 ![image](https://user-images.githubusercontent.com/68351787/174962828-c96c8f70-e899-4178-adec-cb00063433b5.png)
